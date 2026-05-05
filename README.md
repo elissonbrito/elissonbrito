@@ -34,7 +34,7 @@ Tenho perfil analítico, pensamento estruturado e facilidade em compreender prob
 
 ---
 
-##  Tecnologias e Ferramentas
+##  Tecnologia e  Ferramentas
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,nodejs,react,mysql,postgres,linux,git,github,vscode" />
