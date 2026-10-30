@@ -1,94 +1,97 @@
-# Olá, eu sou o Élisson Brito
+# Olá, eu sou o Élisson Brito 👋
 
- **Análise de Dados | Engenharia de Dados | Backend | Soluções orientadas a dados**
+**Análise de Dados | BI | Engenharia de Software | Soluções orientadas a dados**
 
-Profissional em formação com forte base em dados e capacidade de transformar informação em valor estratégico por meio da tecnologia.
+Analista de dados e estudante de Engenharia de Software, com base sólida em modelagem de dados, desenvolvimento de sistemas e visão de negócio. Transformo informação em decisão, de ponta a ponta: do banco de dados ao dashboard, da API ao sistema em produção.
 
----
-
-##  Sobre mim
-
-Sou formado em **Tecnologia em Banco de Dados** e atualmente curso **Engenharia de Software**, construindo uma base sólida entre dados, desenvolvimento e visão de negócio.
-
-Minha trajetória é guiada por um objetivo claro: **resolver problemas reais utilizando dados de forma eficiente, estruturada e escalável**.
-
-Ao longo da minha formação, venho desenvolvendo projetos práticos que conectam:
-- análise de dados
-- desenvolvimento de sistemas
-- modelagem de bancos de dados
-- geração de insights para tomada de decisão
-
-Tenho perfil analítico, pensamento estruturado e facilidade em compreender problemas complexos — traduzindo-os em soluções técnicas objetivas.
+📍 Maricá, RJ, Brasil · 🟢 Aberto a oportunidades em **Dados e BI** (remoto ou híbrido) e estágios em tecnologia
 
 ---
 
-##  Principais Qualidades
+## Sobre mim
 
--  Forte capacidade analítica aplicada a dados  
--  Resolução estruturada de problemas complexos  
--  Foco em eficiência, performance e organização  
--  Aprendizado rápido e perfil autodidata  
--  Capacidade de transformar dados em insights acionáveis  
--  Base sólida em modelagem de dados e lógica de sistemas  
--  Visão de negócio aplicada ao desenvolvimento tecnológico  
+- 🎓 Cursando **Bacharelado em Engenharia de Software** na Universidade de Vassouras (Campus Maricá), com formatura prevista para **junho de 2027**
+- 🎓 Formado em **Tecnologia em Banco de Dados** pela Estácio
+- 💼 **Analista de dados freelance** na **Elitech Consultoria** (desde jun/2025, híbrido), atendendo clientes de segmentos variados
+- 🏛️ Experiência em **administração pública municipal**: contratos, compliance em licitações (Leis 8.666/93 e 14.133/2021), documentação formal e acompanhamento operacional
+- 🌱 Perfil autodidata, com aprendizado contínuo em dados, automação, IA e infraestrutura
 
 ---
 
-##  Tecnologia e  Ferramentas
+## Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,react,mysql,postgres,linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,react,nextjs,django,fastapi,nestjs,mysql,postgres,docker,linux,ubuntu,git,github,vscode" />
 </p>
 
-###  Dados e Análise
+### Dados e Análise
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-###  Backend e Desenvolvimento
+### Backend e Desenvolvimento
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![API REST](https://img.shields.io/badge/API_REST-000000?style=for-the-badge)
 
-###  Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+### Frontend e Mobile
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![React Native](https://img.shields.io/badge/React_Native_(Expo)-000020?style=for-the-badge&logo=expo)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-###  Ferramentas e Ambiente
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+### Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Infraestrutura e Ambiente
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 
 ---
 
-##  Projetos em Destaque
+## Projetos em Destaque
 
- **Análise de Dados e Geração de Insights**  
-- Projetos utilizando Python (pandas) e SQL para exploração, tratamento e análise de dados  
-- Criação de métricas e indicadores para apoio à tomada de decisão  
+### 📊 Dados, BI e Machine Learning
+- **Case Superstore (Power BI):** estudo completo com dashboards e indicadores de negócio
+- **Desafio de analytics de e-commerce (Easy Live):** análise de ponta a ponta com geração de insights
+- **Segmentação de clientes RFM + KMeans:** notebook Jupyter anotado, relatório em PDF e apresentação
+- **Spotify Top 200 Brasil:** análise exploratória de dados musicais
+- **Dashboard de chamados (Dash/Python):** análise de solicitações de serviço de um órgão público municipal, com código refatorado em padrão profissional
 
- **Dashboards e Visualização de Dados**  
-- Desenvolvimento de dashboards interativos no Power BI e Looker Studio  
-- Foco em comunicação visual clara e orientada a dados  
+### 💻 Sistemas e Aplicações
+- **Sistema de gestão para restaurante (PDV e cardápio):** pedidos, emissão de nota fiscal e roteamento de impressão por categoria. Django + React (Vite) + PostgreSQL, em produção de testes numa VM na Oracle Cloud com Docker
+- **Versão mobile do sistema:** adaptação do front para app com React Native (Expo)
+- **Ágora:** plataforma de ouvidoria digital para Maricá, com NestJS e Next.js
+- **NutrIndo:** aplicação em desenvolvimento, com ambiente de testes próprio em nuvem
+- **Sites profissionais:** desenvolvimento de sites para negócios locais (Django + React) e para uma nutricionista (React)
 
- **Sistemas Backend e APIs**  
-- Construção de APIs REST com Node.js  
-- Estruturação de regras de negócio e integração com banco de dados  
-
- **Modelagem e Estruturação de Banco de Dados**  
-- Criação de modelos relacionais eficientes  
-- Organização e otimização de consultas SQL  
-
- **Projetos Acadêmicos Fullstack**  
-- Desenvolvimento de sistemas completos durante a graduação  
-- Integração entre frontend, backend e banco de dados  
+### 🧪 Em andamento
+- Artigo sobre **"IA washing involuntário"**
+- Estudos contínuos em ETL, Docker, FastAPI e Machine Learning
 
 ---
 
-##  Estatísticas do GitHub
+## Principais Qualidades
+
+- 🔎 Forte capacidade analítica aplicada a dados
+- 🧩 Resolução estruturada de problemas complexos
+- ⚙️ Foco em eficiência, organização e documentação clara
+- 🚀 Aprendizado rápido e perfil autodidata
+- 💡 Capacidade de transformar dados em insights acionáveis
+- 🏗️ Base sólida em modelagem de dados e lógica de sistemas
+
+---
+
+## Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=elissonbrito&show_icons=true&theme=tokyonight&hide_border=true)
 
@@ -98,21 +101,14 @@ Tenho perfil analítico, pensamento estruturado e facilidade em compreender prob
 
 ---
 
-##  Contato
+## Contato
 
-📧 Email: elisson.brito.contato@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/elissonjbrito/  
-📍 Brasil  
-
----
-
-##  Posicionamento Profissional
-
-Atuo na interseção entre **dados, desenvolvimento e negócio**, com foco em criar soluções que **geram impacto real por meio da tecnologia**.
-
-Estou em constante evolução para me tornar um profissional capaz de:
-- estruturar dados com eficiência  
-- construir sistemas escaláveis  
-- gerar insights que apoiem decisões estratégicas  
+📧 **E-mail:** elisson.brito.contato@gmail.com
+💼 **LinkedIn:** [linkedin.com/in/elissonjbrito](https://www.linkedin.com/in/elissonjbrito/)
+📍 Maricá, RJ, Brasil
 
 ---
+
+## Posicionamento Profissional
+
+Atuo na interseção entre **dados, desenvolvimento e negócio**, com foco em criar soluções que **geram impacto real por meio da tecnologia**. Meu objetivo é crescer em **Análise de Dados e BI**, estruturando dados com eficiência, construindo sistemas escaláveis e gerando insights que apoiem decisões estratégicas.
