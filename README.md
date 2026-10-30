@@ -1,10 +1,10 @@
-# Olá, eu sou o Élisson Brito 👋
+# Olá, eu sou o Élisson Brito, é um prazer imenso te receber aqui! 
 
-**Análise de Dados | BI | Engenharia de Software | Soluções orientadas a dados**
+**Análise de Dados | BI | Engenharia de Software | Desenvolvimento Backend |Soluções orientadas a dados**
 
 Analista de dados e estudante de Engenharia de Software, com base sólida em modelagem de dados, desenvolvimento de sistemas e visão de negócio. Transformo informação em decisão, de ponta a ponta: do banco de dados ao dashboard, da API ao sistema em produção.
 
-📍 Maricá, RJ, Brasil · 🟢 Aberto a oportunidades em **Dados e BI** (remoto ou híbrido) e estágios em tecnologia
+📍 Maricá, RJ, Brasil · 🟢 Aberto a oportunidades em **Dados e BI** (remoto ou híbrido) e estágios em tecnologia em geral
 
 ---
 
