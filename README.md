@@ -4,13 +4,13 @@
 
 Analista de dados e estudante de Engenharia de Software, com base sólida em modelagem de dados, desenvolvimento de sistemas e visão de negócio. Transformo informação em decisão, de ponta a ponta: do banco de dados ao dashboard, da API ao sistema em produção.
 
-📍 Maricá, RJ, Brasil · 🟢 Aberto a oportunidades em **Dados e BI** (remoto ou híbrido) e estágios em tecnologia em geral
+📍 Maricá, RJ, Brasil · 🟢 Aberto a oportunidades em **Dados, BI, Engenharia de Software, Desenvolvimento Backend e Frontend** (remoto ou híbrido) e estágios em tecnologia em geral
 
 ---
 
 ## Sobre mim
 
-- 🎓 Cursando **Bacharelado em Engenharia de Software** na Universidade de Vassouras (Campus Maricá), com formatura prevista para **junho de 2027**
+- 🎓 Cursando **Bacharelado em Engenharia de Software** na Universidade de Vassouras (Campus Maricá), com formatura prevista para **julho de 2027**
 - 🎓 Formado em **Tecnologia em Banco de Dados** pela Estácio
 - 💼 **Analista de dados freelance** na **Elitech Consultoria** (desde jun/2025, híbrido), atendendo clientes de segmentos variados
 - 🏛️ Experiência em **administração pública municipal**: contratos, compliance em licitações (Leis 8.666/93 e 14.133/2021), documentação formal e acompanhamento operacional
@@ -111,4 +111,4 @@ Analista de dados e estudante de Engenharia de Software, com base sólida em mod
 
 ## Posicionamento Profissional
 
-Atuo na interseção entre **dados, desenvolvimento e negócio**, com foco em criar soluções que **geram impacto real por meio da tecnologia**. Meu objetivo é crescer em **Análise de Dados e BI**, estruturando dados com eficiência, construindo sistemas escaláveis e gerando insights que apoiem decisões estratégicas.
+Atuo na interseção entre **dados, desenvolvimento e negócio**, com foco em criar soluções que **geram impacto real por meio da tecnologia**. Meu objetivo é crescer na área, sou um entusiasta no estudo de tecnologia, atualmente me dedicando mais no estudo de IA, Skill, RAG e busco usar dados com eficiência, construindo sistemas escaláveis e gerando insights que apoiem decisões estratégicas.
